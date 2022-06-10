@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.icone {
+    width: 24px;
+    height: 24px;
+    background-color: blue;
+}
+
+.pesquisa {
+    height: 33px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+.pesquisa > input {
+    background-color: blueviolet;
+    width: 500px;
+    height: 20px;
+}
+
+.mic {
+    background: wheat;
+}
+
+header {
+    display: flex;
+    background-color: #181818;
+    align-items: center;
+    height: 100px;
+    justify-content: space-between;
+    padding: 0.5px;
+}
+
+.grupo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#logo {
+    height: 35px;
+}

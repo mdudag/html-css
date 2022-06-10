@@ -1,0 +1,43 @@
+h1 {
+    font-size: 60px;
+    color:blue;
+
+}
+
+p {
+    color:rgb(47, 41, 202);
+}
+
+#texto {
+    color:red;
+}
+
+.bordabaixo {
+    border-bottom: 3px solid red;
+}
+
+#cor1 {
+    background-color:rgb(47, 49, 199);
+    color: white;
+}
+
+#cor2 {
+    background-color:rgb(79, 81, 201);
+    color: white;
+}
+
+#cor3 {
+    background-color:rgb(105, 105, 201);
+    color: white;
+}
+
+#cor4 {
+    background-color:rgb(139, 139, 201);
+    color: white;
+}
+
+#lista {
+    color: rgb(67, 64, 64);
+    font-size: 30px;
+    border-bottom: 2px solid rgb(196, 208, 244);
+}

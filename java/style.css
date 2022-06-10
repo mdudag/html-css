@@ -1,0 +1,36 @@
+#toDo {
+    background-color: pink;
+    width: 215px;
+    display: flex;
+    flex-direction: column;
+}
+
+#toDo > h1 {
+    font-size: medium;
+    color:rgb(92, 58, 16);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 15px auto;
+}
+
+#list {
+    overflow: auto;
+    height: 120px;
+    background-color: rgb(245, 225, 228);
+    width: 130px;
+    margin:  auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+#toDo > button {
+    margin: 10px auto;
+}
+
+#toDo:hover > button {
+    background-color: rgb(186, 198, 205);
+}
+
+#input {
+    width: 80%;
+    margin: auto;
+}
